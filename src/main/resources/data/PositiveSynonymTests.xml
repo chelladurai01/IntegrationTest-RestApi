@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<synonyms>
+	<synonym>
+		<primaryTerm>INT_TEST_Canon</primaryTerm>
+		<listId>1133827231862</listId>
+		<directionality>One-way</directionality>
+		<exactMatch>Exact</exactMatch>
+		<term>Camera</term>
+	</synonym>
+	<synonym>
+		<primaryTerm>INT_TEST_apple</primaryTerm>
+		<listId>1133827231862</listId>
+		<directionality>One-way</directionality>
+		<exactMatch>Exact</exactMatch>
+		<term>iphone</term>
+	</synonym>
+	<synonym>
+		<primaryTerm>INT_TEST_iPad</primaryTerm>
+		<listId>1133827231862</listId>
+		<directionality>One-way</directionality>
+		<exactMatch>Exact</exactMatch>
+		<term>ipad</term>
+	</synonym>
+</synonyms>
+

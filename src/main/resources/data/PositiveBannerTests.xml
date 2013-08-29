@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Banners>
+	 <Banner>
+		<bannerName>INT_TEST_CurrentOffers</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>BestBuy</categoryPath>
+			<contextPathId>cat00000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+	
+	  <Banner>
+		<bannerName>INT_TEST_CurrentOffersWithSC</bannerName>
+		<bannerType>2</bannerType>
+			<bannerPriority>1</bannerPriority>
+			<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0100000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner> 
+	 
+	 <Banner>
+		<bannerName>INT_TEST_CurrentOffersWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0100000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner> 
+
+ 	<Banner>
+		<bannerName>INT_TEST_Today OffersWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>pcmcat128500050004</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+ 	<Banner>
+		<bannerName>INT_TEST_Today OffersWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>pcmcat128500050004</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+
+	  <Banner>
+		<bannerName>INT_TEST_Today DealsWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0500000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+	   <Banner>
+		<bannerName>INT_TEST_Today DealsWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0500000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+
+	<Banner>
+		<bannerName>INT_TEST_Offer Of The DayWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0300000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+
+	<Banner>
+		<bannerName>INT_TEST_Offer Of The DayWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0300000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+	<Banner>
+		<bannerName>INT_TEST_Weekly DealsWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0900000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+	<Banner>
+		<bannerName>INT_TEST_Weekly DealsWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0900000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+
+	<Banner>
+		<bannerName>INT_TEST_Current PriceWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>pcmcat242800050021</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+	<Banner>
+		<bannerName>INT_TEST_Current PriceWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>pcmcat242800050021</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+
+
+	<Banner>
+		<bannerName>INT_TEST_DealsWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0207000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	<Banner>
+		<bannerName>INT_TEST_DealsWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0207000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+
+	<Banner>
+		<bannerName>INT_TEST_Mobile OffersWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>cat09000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+	<Banner>
+		<bannerName>INT_TEST_Mobile OffersWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>cat09000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+
+ 
+ <Banner>
+		<bannerName>INT_TEST_Samsung Product OfferWithSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>1</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0400000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+	<Banner>
+		<bannerName>INT_TEST_Samsung Product OfferWithoutSC</bannerName>
+		<bannerType>2</bannerType>
+		<bannerPriority>1</bannerPriority>
+		<bannerTemplate>HTML_ONLY</bannerTemplate>
+		<contexts>
+			<searchProfileId>1</searchProfileId>
+			<inherit>0</inherit>
+			<keywords>Offers</keywords>
+			<categoryPath>cat00000</categoryPath>
+			<contextPathId>abcat0400000</contextPathId>
+		</contexts>
+		<documentId>1218858612066</documentId>
+		<startDate>03-24-2013 00:05</startDate>
+		<endDate>04-26-2013 00:01</endDate>
+	</Banner>
+	
+</Banners>
+
+
+
+		

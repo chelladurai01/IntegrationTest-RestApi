@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<boostsAndBlocks>	
+	<boostsAndBlock>
+		<categoryId>cat00000</categoryId>
+		<categoryPath>Best Buy</categoryPath>
+		<searchTerm>HDMI Cable</searchTerm>
+		<boostBlockId></boostBlockId>
+		<boostProduct>
+			<productName></productName>
+			<skuId></skuId>
+			<position></position>
+		</boostProduct>		
+		<searchProfileId>1</searchProfileId>
+	</boostsAndBlock>
+	
+	<boostsAndBlock>
+		<categoryId>cat00000</categoryId>
+		<categoryPath>Best Buy</categoryPath>
+		<searchTerm>Cooker</searchTerm>
+		<boostBlockId></boostBlockId>
+		<boostProduct>
+			<productName></productName>
+			<skuId></skuId>
+			<position></position>
+		</boostProduct>		
+		<searchProfileId>1</searchProfileId>
+	</boostsAndBlock>
+	
+	<!-- <boostsAndBlock>
+		<categoryId>cat00000</categoryId>
+		<categoryPath>Best Buy</categoryPath>
+		<searchTerm>Kids'</searchTerm>
+		<boostBlockId></boostBlockId>
+		<boostProduct>
+			<productName></productName>
+			<skuId></skuId>
+			<position></position>
+		</boostProduct>		
+		<searchProfileId>1</searchProfileId>
+	</boostsAndBlock> -->
+</boostsAndBlocks>	

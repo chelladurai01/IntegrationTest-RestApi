@@ -1,0 +1,28 @@
+<keywordredirects>
+    
+	<keywordredirect>
+		<redirectTerm>INT_TEST_Acer7</redirectTerm>
+		<redirectUrl>www.acer.co.in</redirectUrl>
+		<redirectType>URL</redirectType>
+		<searchProfileId>1</searchProfileId>
+		<startDate>03-26-2013 00:00:00</startDate>
+		<endDate>04-02-2013 00:00:00</endDate>
+	</keywordredirect>
+	<keywordredirect>
+		<redirectTerm>INT_TEST_AudioSystems</redirectTerm>
+		<redirectUrl>/site/Home-Audio-Systems/Speakers/abcat0205000.c?id=abcat0205000</redirectUrl>
+		<redirectType>URL</redirectType>
+		<searchProfileId>1</searchProfileId>
+		<startDate>03-26-2013 00:00:00</startDate>
+		<endDate>04-02-2013 00:00:00</endDate>
+	</keywordredirect>
+	<keywordredirect>
+		<redirectTerm>INT_TEST_gps_navigation</redirectTerm>
+		<redirectUrl>/site/Car-Audio-GPS/GPS-Navigation/abcat0301000.c?id=abcat0301000</redirectUrl>
+		<redirectType>URL</redirectType>
+		<searchProfileId>1</searchProfileId>
+		<startDate>03-26-2013 00:00:00</startDate>
+		<endDate>04-02-2013 00:00:00</endDate>
+	</keywordredirect>
+	
+</keywordredirects>

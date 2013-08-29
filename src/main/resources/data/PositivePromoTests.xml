@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<promos>
+    <promo>
+	<promoName>Lg_Product</promoName>
+	<skuIds>5413</skuIds>
+	<startDate>03-26-2013 11:04:42</startDate>
+	<endDate>04-02-2013 11:03:12</endDate>
+	
+	</promo>
+   
+    <promo>	
+	<promoName>Samsung_Mobile</promoName>
+	<skuIds>6421</skuIds>
+	<startDate>03-22-2013 05:24:37</startDate>
+	<endDate>03-29-2013 05:23:07</endDate>
+	</promo>
+	
+	<promo>	
+	<promoName>Sony_Laptop</promoName>
+	<skuIds>6422</skuIds>
+	<startDate>03-22-2013 05:24:37</startDate>
+	<endDate>03-29-2013 05:23:07</endDate>
+	</promo>
+	
+	
+	<promo>	
+	<promoName>Samsung_Product</promoName>
+	<skuIds>3421</skuIds>
+	<startDate>03-22-2013 05:24:37</startDate>
+	<endDate>03-29-2013 05:23:07</endDate>
+	</promo>
+	
+	
+	<promo>	
+	<promoName>Mobile_Product</promoName>
+	<skuIds>1121</skuIds>
+	<startDate>03-22-2013 05:24:37</startDate>
+	<endDate>03-29-2013 05:23:07</endDate>
+	</promo>
+	
+	
+	<promo>	
+	<promoName>Canon</promoName>
+	<skuIds>6421</skuIds>
+	<startDate>03-22-2013 05:24:37</startDate>
+	<endDate>03-29-2013 05:23:07</endDate>
+	</promo>
+	
+</promos>

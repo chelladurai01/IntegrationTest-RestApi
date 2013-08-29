@@ -1,0 +1,62 @@
+<suite name="SPT_Integration_Test" verbose="1">
+
+	<test name="SPTIntegrationTest" junit="false" preserve-order="true">
+		<parameter name="synonymdataXml" value="/data/PositiveSynonymTests.xml" />
+		<parameter name="bannerdataXml" value="/data/PositiveBannerTests.xml" />
+		<parameter name="keywordredirectdataXml" value="/data/PositiveRedirectTests.xml" />
+		<parameter name="promodataXml" value="/data/PositivePromoTests.xml" />
+		<parameter name="facetdataXml" value="/data/PositiveFacetTests.xml" />
+		<parameter name="boostandblockdataXml" value="/data/PositiveBoostBlocksTests.xml" />
+		<classes>
+			<class
+				name="com.bestbuy.searchplatform.integrationtests.tests.KeywordRedirectTest">
+				<methods>
+					<include name="testCreate"></include>
+					<include name="testApprove"></include>
+				</methods>
+			</class>
+
+			<class
+				name="com.bestbuy.searchplatform.integrationtests.tests.SynonymsTest">
+				<methods>
+					<include name="testCreate"></include>
+					<include name="testApprove"></include>
+				</methods>
+			</class> 
+
+			<class
+				name="com.bestbuy.searchplatform.integrationtests.tests.BannersTest">
+				<methods>
+					<include name="testCreate"></include>
+					<include name="testApprove"></include>
+				</methods>
+			</class>
+
+			<class name="com.bestbuy.searchplatform.integrationtests.tests.FacetsTest">
+				<methods>
+					<include name="testCreate"></include>
+					<include name="testApprove"></include>
+				</methods>
+			</class>
+
+			<class
+				name="com.bestbuy.searchplatform.integrationtests.tests.BoostAndBlockTest">
+				<methods>
+					<include name="testFetchSkuId"></include>
+					<include name="testCreate"></include>
+					<include name="testApprove"></include>
+				</methods>
+			</class> 
+
+			<class
+				name="com.bestbuy.searchplatform.integrationtests.tests.SearchApiTest" />
+
+		</classes>
+	</test>
+
+</suite> 
+
+
+		
+	
+			
